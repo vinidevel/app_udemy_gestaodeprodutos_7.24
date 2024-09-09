@@ -3,7 +3,7 @@
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Estas instruções a seguir permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Assista ao **[curso](https://www.udemy.com/course/laravel-10-do-basico-ao-avancado/)** para entender como foi desenvolvido o projeto.
 
