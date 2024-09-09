@@ -53,7 +53,7 @@ DB_PASSWORD=
 ```
 
 
-## ⚙️ Basta rodar o comando a seguir para rodar a aplicação caso não esteja usando algum pacote de ferramentas, ex: Laragon.
+⚙️ Basta rodar o comando a seguir para rodar a aplicação caso não esteja usando algum pacote de ferramentas, ex: Laragon.
 
 
 ```
