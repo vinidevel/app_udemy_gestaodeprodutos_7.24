@@ -35,7 +35,7 @@ composer install
 APP_NAME=Laravel
 ```
 
-  . Banco de Dados:
+- Banco de Dados:
 
 ```
 DB_CONNECTION=mysql
@@ -50,14 +50,9 @@ DB_PASSWORD=
 
   ```
   php artisan key:generate
-```
-
 
 ⚙️ Basta rodar o comando a seguir para rodar a aplicação caso não esteja usando algum pacote de ferramentas, ex: Laragon.
 
-
-```
-
 ```
 php artisan serve
-```
+
