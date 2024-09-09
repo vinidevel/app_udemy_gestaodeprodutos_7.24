@@ -19,7 +19,7 @@ Laravel versão 9
 - Clone o repositório:
 
 ```
-git clone https://github.com/vinidevel/vinidevel.git
+git clone https://github.com/vinidevel/app_udemy_gestaodeprodutos_7.24.git
 ```
 - Instale o composer e as dependências
 
