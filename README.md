@@ -10,8 +10,8 @@ Assista ao **[curso](https://www.udemy.com/course/laravel-10-do-basico-ao-avanca
 ### 📋 Pré-requisitos
 
 ```
-PHP versão 8.1.10
-Laravel versão 9
+PHP versão 7.24
+Laravel versão 8
 ```
 
 ### 🔧 Instalação
