@@ -51,6 +51,15 @@ DB_PASSWORD=
   ```
   php artisan key:generate
 
+  ``
+
+- Subir tabelas para o banco:
+
+  ```
+  php artisan migrate
+
+Obs: Crie um usuário.
+
 ⚙️ Basta rodar o comando a seguir para rodar a aplicação caso não esteja usando algum pacote de ferramentas, ex: Laragon.
 
 ```
