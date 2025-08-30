@@ -51,8 +51,6 @@ DB_PASSWORD=
   ```
   php artisan key:generate
 
-  ``
-
 - Subir tabelas para o banco:
 
   ```
